@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
+
+# Локальные материалы задания и отчёта
+/Подходы к стилизации в React.pdf
+/docs/REPORT.*
+/docs/catalog.png
